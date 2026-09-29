@@ -1,0 +1,2 @@
+Por ser uma linguagem mais simples e que já tenho um bom domínio, estarão públicados apenas os códigos mais complexos e comandos avançados
+A parte mais básica como prints, if, else, etc..., apenas fiz uma revisão rápida nas aulas
