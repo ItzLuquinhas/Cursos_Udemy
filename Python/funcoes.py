@@ -136,3 +136,6 @@ def multiplicacaoDoisNumeros(numeroRecebido):
 print(multiplicacaoDoisNumeros(5))
 print(10, "x", 10, "=", multiplicacaoDoisNumeros(10))
 print(10, "x", 8, "=", multiplicacaoDoisNumeros(8))
+
+#-----------------------------------------
+
